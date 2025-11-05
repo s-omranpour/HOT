@@ -1,0 +1,6 @@
+torch
+torchvision
+lightning
+torchgeo
+medmnist
+einops
