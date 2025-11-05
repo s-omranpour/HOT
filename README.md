@@ -1,12 +1,8 @@
 # Higher-Order Transformers with Kronecker-Structured Attention
 
-📄 [Paper](https://openreview.net/forum?id=QN0aXcKFkT)
 
-This repository contains the official implementation of our paper accepted at **Transactions on Machine Learning Research (TMLR), 2025**.
-
-> **Paper:** *Higher-Order Transformers with Kronecker-Structured Attention*
-> **Authors:** *Soroush Omranpour, Guillaume Rabusseau, and Reihaneh Rabbany*
-> **Venue:** *Transactions on Machine Learning Research (TMLR), 2025*
+This repository contains the official implementation of [our paper](https://openreview.net/forum?id=QN0aXcKFkT)
+ accepted at **TMLR 2025**.
 
 ---
 
